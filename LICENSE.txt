@@ -1,3 +1,3 @@
 # LICENSE
 
-## Kayla querida
+## Apache 3.0
